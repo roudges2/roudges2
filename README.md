@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Topolo - Service/Development
 
-- 🌱 I’m currently learning **JavaScript, C, CS**
+- 🌱 I’m currently learning **JavaScript, C, C#**
 
 - 👨‍💻 All of my projects are available at [https://roudges.ga/portfolio](https://roudges.ga/portfolio)
 
