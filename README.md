@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://roudges.eu/](https://roudges.eu/)
 
-- 📫 How to reach me **support@roudges.ga**
+- 📫 How to reach me **Leon@roudges.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
