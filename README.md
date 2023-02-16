@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on CodeOffer (https://codeoffer.net/)
 
+- I am a co-founder of the codeoffer project
+
 - 👨‍💻 All of my projects are available at [https://roudges.eu/](https://roudges.eu/)
 
 - 📫 How to reach me **contact@roudges.eu**
