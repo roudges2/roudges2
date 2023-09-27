@@ -7,6 +7,6 @@
 
 - I am a co-founder of the codeoffer project
 
-- 👨‍💻 All of my projects are available at [https://roudges.eu/](https://roudges.eu/)
+- 👨‍💻 All of my projects are available at [https://roudges.de/](https://roudges.de/)
 
-- 📫 How to reach me **contact@roudges.eu**
+- 📫 How to reach me **leon@roudges.de**
