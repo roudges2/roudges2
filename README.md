@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roudges2&label=Profile%20views&color=0e75b6&style=flat" alt="roudges2" /> </p>
 
-- 🔭 I’m currently working on CodeOffer (https://codeoffer.net/)
+<!-- 
+- 🔭 I’m currently working on CodeOffer (https://codeoffer.net/) 
 
 - I am a co-founder of the codeoffer project
-
+-->
 - 👨‍💻 All of my projects are available at [https://roudges.de/](https://roudges.de/)
 
 - 📫 How to reach me **leon@roudges.de**
